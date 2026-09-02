@@ -1,0 +1,14 @@
+bankId,ledgerId,label,reason
+BNK-300001,LED-300001,match,clean settlement
+BNK-300002,LED-300002,match,clean settlement
+BNK-300003,LED-300003,match,clean settlement
+BNK-300004,LED-300004,exception,partial payment
+BNK-300005,LED-300005,match,fuzzy reference typo
+BNK-300006,LED-300006,match,clean settlement
+BNK-300007,LED-300007,match,micro amount clean settlement
+BNK-300008,LED-300008,match,clean settlement
+BNK-300009,LED-300009,match,clean settlement
+BNK-300010,LED-300010,match,primary settlement
+BNK-300010-DUP,,exception,duplicate bank entry
+BNK-300011,LED-300011,match,clean settlement
+,LED-300012,exception,ledger only pending settlement

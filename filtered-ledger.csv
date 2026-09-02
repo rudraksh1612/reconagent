@@ -1,0 +1,23 @@
+id,ref,merchant,amount,fee,date,narration
+LED-200001,RZP200001,Nimbus Foods,15000.00,300.00,2026-08-01,Payment received - Nimbus Foods
+LED-200002,RZP200002,Bluewave Studio,32450.00,649.00,2026-08-02,Payment received - Bluewave Studio
+LED-200003,RZP200003,Kaveri Textiles,8400.00,168.00,2026-08-03,Payment received - Kaveri Textiles
+LED-200004,RZP200004,Verve Fitness,24000.00,480.00,2026-08-04,Payment received - Verve Fitness
+LED-200005,RZP200005,Orchid Clinic,55000.00,1100.00,2026-08-05,Payment received - Orchid Clinic
+LED-200006,RZP200006,Sundown Cafe,1250.00,25.00,2026-08-06,Payment received - Sundown Cafe
+LED-200007,RZP200007,Padma Electronics,67800.00,1356.00,2026-08-07,Payment received - Padma Electronics
+LED-200008,RZP200008,Anchor Books,4500.00,90.00,2026-08-08,Payment received - Anchor Books
+LED-200009,RZP200009,Trailhead Logistics,41200.00,824.00,2026-08-09,Payment received - Trailhead Logistics
+LED-200010,RZP200010,Solstice Travel,78900.00,1578.00,2026-08-10,Payment received - Solstice Travel
+LED-200011,RZP200011,Nimbus Foods,180.00,3.60,2026-08-11,Payment received - Nimbus Foods
+LED-200012,RZP200012,Verve Fitness,12500.00,250.00,2026-08-12,Payment received - Verve Fitness
+LED-200013,RZP200013,Bluewave Studio,9800.00,196.00,2026-08-13,Payment received - Bluewave Studio
+LED-200014,RZP200014,Kaveri Textiles,22000.00,440.00,2026-08-14,Payment received - Kaveri Textiles
+LED-200015,RZP200015,Solstice Travel,35000.00,700.00,2026-08-15,Payment received - Solstice Travel
+LED-200016,RZP200016,Orchid Clinic,40000.00,800.00,2026-08-16,Payment received - Orchid Clinic
+LED-200017,RZP200017,Trailhead Logistics,60000.00,1200.00,2026-08-17,Payment received - Trailhead Logistics
+LED-200018,RZP200018,Anchor Books,18000.00,360.00,2026-08-18,Payment received - Anchor Books
+LED-200019,RZP200019,Nimbus Foods,26000.00,520.00,2026-08-19,Payment received - Nimbus Foods
+LED-200020,RZP200020,Verve Fitness,14000.00,280.00,2026-08-20,Payment received - Verve Fitness
+LED-200023,RZP200023,Bluewave Studio,31000.00,620.00,2026-08-23,Payment received - Bluewave Studio (Pending settlement)
+LED-200024,RZP200024,Kaveri Textiles,19500.00,390.00,2026-08-24,Payment received - Kaveri Textiles (Unsettled gateway capture)

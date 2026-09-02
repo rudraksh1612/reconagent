@@ -1,0 +1,13 @@
+id,ref,merchant,amount,fee,date,narration
+LED-300001,RZP300001,Nimbus Foods,12000.00,240.00,2026-08-01,Payment received - Nimbus Foods
+LED-300002,RZP300002,Nimbus Foods,34500.00,690.00,2026-08-03,Payment received - Nimbus Foods
+LED-300003,RZP300003,Nimbus Foods,8900.00,178.00,2026-08-05,Payment received - Nimbus Foods
+LED-300004,RZP300004,Nimbus Foods,21000.00,420.00,2026-08-07,Payment received - Nimbus Foods
+LED-300005,RZP300005,Nimbus Foods,45000.00,900.00,2026-08-09,Payment received - Nimbus Foods
+LED-300006,RZP300006,Nimbus Foods,16500.00,330.00,2026-08-11,Payment received - Nimbus Foods
+LED-300007,RZP300007,Nimbus Foods,220.00,4.40,2026-08-12,Payment received - Nimbus Foods
+LED-300008,RZP300008,Verve Fitness,18000.00,360.00,2026-08-02,Payment received - Verve Fitness
+LED-300009,RZP300009,Verve Fitness,29500.00,590.00,2026-08-04,Payment received - Verve Fitness
+LED-300010,RZP300010,Verve Fitness,41000.00,820.00,2026-08-06,Payment received - Verve Fitness
+LED-300011,RZP300011,Verve Fitness,15500.00,310.00,2026-08-08,Payment received - Verve Fitness
+LED-300012,RZP300012,Verve Fitness,27000.00,540.00,2026-08-10,Payment received - Verve Fitness (Pending settlement)

@@ -1,0 +1,27 @@
+bankId,ledgerId,label,reason
+BNK-200001,LED-200001,match,clean settlement net of fee
+BNK-200002,LED-200002,match,clean settlement net of fee
+BNK-200003,LED-200003,match,clean settlement net of fee
+BNK-200004,LED-200004,match,clean settlement net of fee
+BNK-200005,LED-200005,match,clean settlement net of fee
+BNK-200006,LED-200006,match,clean settlement net of fee
+BNK-200007,LED-200007,match,clean settlement net of fee
+BNK-200008,LED-200008,match,clean settlement net of fee
+BNK-200009,LED-200009,match,clean settlement net of fee
+BNK-200010,LED-200010,match,clean settlement net of fee
+BNK-200011,LED-200011,match,micro amount clean settlement
+BNK-200012,LED-200012,match,clean settlement net of fee
+BNK-200013,LED-200013,match,fuzzy reference typo match
+BNK-200014,LED-200014,match,fuzzy reference typo match
+BNK-200015,LED-200015,match,fuzzy reference typo match
+BNK-200016,LED-200016,exception,partial payment - amount mismatch
+BNK-200017,LED-200017,exception,partial payment - amount mismatch
+BNK-200018,LED-200018,exception,partial payment - amount mismatch
+BNK-200019,LED-200019,match,primary settlement
+BNK-200019-DUP,,exception,duplicate bank entry
+BNK-200020,LED-200020,match,primary settlement
+BNK-200020-DUP,,exception,duplicate bank entry
+BNK-200021,,exception,bank only unrecorded deposit
+BNK-200022,,exception,bank only unrecorded deposit
+,LED-200023,exception,ledger only pending settlement
+,LED-200024,exception,ledger only unsettled gateway capture

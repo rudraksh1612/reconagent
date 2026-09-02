@@ -1,0 +1,464 @@
+[
+  {
+    "bankId": "BNK-100001",
+    "ledgerId": "LED-100001",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100002",
+    "ledgerId": "LED-100002",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100003",
+    "ledgerId": "LED-100003",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100004",
+    "ledgerId": "LED-100004",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100005",
+    "ledgerId": "LED-100005",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100006",
+    "ledgerId": "LED-100006",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100007",
+    "ledgerId": "LED-100007",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100008",
+    "ledgerId": "LED-100008",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100009",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100010",
+    "ledgerId": "LED-100010",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100010-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100011",
+    "ledgerId": "LED-100011",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": null,
+    "ledgerId": "LED-100012",
+    "label": "exception",
+    "reason": "no corresponding bank settlement"
+  },
+  {
+    "bankId": "BNK-100013",
+    "ledgerId": "LED-100013",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100014",
+    "ledgerId": "LED-100014",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100015",
+    "ledgerId": "LED-100015",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100016",
+    "ledgerId": "LED-100016",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100017",
+    "ledgerId": "LED-100017",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100018",
+    "ledgerId": "LED-100018",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100019",
+    "ledgerId": "LED-100019",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100020",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100021",
+    "ledgerId": "LED-100021",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100022",
+    "ledgerId": "LED-100022",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100023",
+    "ledgerId": "LED-100023",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100024",
+    "ledgerId": "LED-100024",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100025",
+    "ledgerId": "LED-100025",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100026",
+    "ledgerId": "LED-100026",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100027",
+    "ledgerId": "LED-100027",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100028",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100029",
+    "ledgerId": "LED-100029",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100030",
+    "ledgerId": "LED-100030",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100031",
+    "ledgerId": "LED-100031",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100032",
+    "ledgerId": "LED-100032",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100033",
+    "ledgerId": "LED-100033",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100034",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100035",
+    "ledgerId": "LED-100035",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100036",
+    "ledgerId": "LED-100036",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100036-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100037",
+    "ledgerId": "LED-100037",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": null,
+    "ledgerId": "LED-100038",
+    "label": "exception",
+    "reason": "no corresponding bank settlement"
+  },
+  {
+    "bankId": "BNK-100039",
+    "ledgerId": "LED-100039",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100040",
+    "ledgerId": "LED-100040",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100041",
+    "ledgerId": "LED-100041",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100042",
+    "ledgerId": "LED-100042",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100043",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100044",
+    "ledgerId": "LED-100044",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100044-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100045",
+    "ledgerId": "LED-100045",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100046",
+    "ledgerId": "LED-100046",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100047",
+    "ledgerId": "LED-100047",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100048",
+    "ledgerId": "LED-100048",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100049",
+    "ledgerId": "LED-100049",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100050",
+    "ledgerId": "LED-100050",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100051",
+    "ledgerId": "LED-100051",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100052",
+    "ledgerId": "LED-100052",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100053",
+    "ledgerId": "LED-100053",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100054",
+    "ledgerId": "LED-100054",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100055",
+    "ledgerId": "LED-100055",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100055-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100056",
+    "ledgerId": "LED-100056",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100056-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100057",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "no corresponding ledger record"
+  },
+  {
+    "bankId": "BNK-100058",
+    "ledgerId": "LED-100058",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100059",
+    "ledgerId": "LED-100059",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100060",
+    "ledgerId": "LED-100060",
+    "label": "exception",
+    "reason": "partial payment - amount mismatch"
+  },
+  {
+    "bankId": "BNK-100061",
+    "ledgerId": "LED-100061",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100062",
+    "ledgerId": "LED-100062",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100063",
+    "ledgerId": "LED-100063",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100064",
+    "ledgerId": "LED-100064",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100065",
+    "ledgerId": "LED-100065",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100065-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100066",
+    "ledgerId": "LED-100066",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100067",
+    "ledgerId": "LED-100067",
+    "label": "match",
+    "reason": "primary entry matches"
+  },
+  {
+    "bankId": "BNK-100067-DUP",
+    "ledgerId": null,
+    "label": "exception",
+    "reason": "duplicate bank entry, no second ledger record"
+  },
+  {
+    "bankId": "BNK-100068",
+    "ledgerId": "LED-100068",
+    "label": "match",
+    "reason": "reference typo, fuzzy matchable"
+  },
+  {
+    "bankId": "BNK-100069",
+    "ledgerId": "LED-100069",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  },
+  {
+    "bankId": "BNK-100070",
+    "ledgerId": "LED-100070",
+    "label": "match",
+    "reason": "clean settlement net of fee"
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "id": "BNK-100001",
+    "ref": "RZP100001",
+    "merchant": "Bluewave Studio",
+    "amount": 4217.33,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100001 Bluewave Studio"
+  },
+  {
+    "id": "BNK-100002",
+    "ref": "RZP100002",
+    "merchant": "Anchor Books",
+    "amount": 43603.73,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100002 Anchor Books PARTIAL"
+  },
+  {
+    "id": "BNK-100003",
+    "ref": "RZP100003",
+    "merchant": "Bluewave Studio",
+    "amount": 22969.1,
+    "date": "2026-08-22",
+    "narration": "SETTLEMENT RZP100003 Bluewave Studio"
+  },
+  {
+    "id": "BNK-100004",
+    "ref": "RZP100004",
+    "merchant": "Nimbus Foods",
+    "amount": 7737.61,
+    "date": "2026-08-21",
+    "narration": "SETTLEMENT RZP100004 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100005",
+    "ref": "RZP100005",
+    "merchant": "Trailhead Logistics",
+    "amount": 43205.79,
+    "date": "2026-08-14",
+    "narration": "SETTLEMENT RZP100005 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100006",
+    "ref": "RZP100006",
+    "merchant": "Orchid Clinic",
+    "amount": 63819.41,
+    "date": "2026-08-13",
+    "narration": "SETTLEMENT RZP100006 Orchid Clinic"
+  },
+  {
+    "id": "BNK-100007",
+    "ref": "RZP100007",
+    "merchant": "Verve Fitness",
+    "amount": 2253.14,
+    "date": "2026-08-19",
+    "narration": "SETTLEMENT RZP100007 Verve Fitness"
+  },
+  {
+    "id": "BNK-100008",
+    "ref": "RZP100008",
+    "merchant": "Nimbus Foods",
+    "amount": 80100.06,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100008 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100009",
+    "ref": "RZP100009",
+    "merchant": "Verve Fitness",
+    "amount": 27458.39,
+    "date": "2026-08-04",
+    "narration": "SETTLEMENT RZP100009 Verve Fitness"
+  },
+  {
+    "id": "BNK-100010",
+    "ref": "RZP100010",
+    "merchant": "Nimbus Foods",
+    "amount": 42713.58,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100010 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100010-DUP",
+    "ref": "RZP100010",
+    "merchant": "Nimbus Foods",
+    "amount": 42713.58,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100010 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100011",
+    "ref": "RZP100011",
+    "merchant": "Nimbus Foods",
+    "amount": 14818.21,
+    "date": "2026-08-04",
+    "narration": "SETTLEMENT RZP100011 Nimbus Foods PARTIAL"
+  },
+  {
+    "id": "BNK-100013",
+    "ref": "RZP100013",
+    "merchant": "Verve Fitness",
+    "amount": 81367.63,
+    "date": "2026-08-06",
+    "narration": "SETTLEMENT RZP100013 Verve Fitness"
+  },
+  {
+    "id": "BNK-100014",
+    "ref": "RZP100014",
+    "merchant": "Solstice Travel",
+    "amount": 36936.63,
+    "date": "2026-08-04",
+    "narration": "SETTLEMENT RZP100014 Solstice Travel PARTIAL"
+  },
+  {
+    "id": "BNK-100015",
+    "ref": "RZP100015",
+    "merchant": "Solstice Travel",
+    "amount": 81111.5,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100015 Solstice Travel"
+  },
+  {
+    "id": "BNK-100016",
+    "ref": "RZP100016",
+    "merchant": "Solstice Travel",
+    "amount": 44243.46,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100016 Solstice Travel"
+  },
+  {
+    "id": "BNK-100017",
+    "ref": "RZP100107",
+    "merchant": "Sundown Cafe",
+    "amount": 21025.3,
+    "date": "2026-08-09",
+    "narration": "SETTLEMENT RZP100107 Sundown Cafe"
+  },
+  {
+    "id": "BNK-100018",
+    "ref": "RZP100018",
+    "merchant": "Nimbus Foods",
+    "amount": 72314.08,
+    "date": "2026-08-06",
+    "narration": "SETTLEMENT RZP100018 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100019",
+    "ref": "RZP100019",
+    "merchant": "Anchor Books",
+    "amount": 911.32,
+    "date": "2026-08-14",
+    "narration": "SETTLEMENT RZP100019 Anchor Books"
+  },
+  {
+    "id": "BNK-100020",
+    "ref": "RZP100020",
+    "merchant": "Nimbus Foods",
+    "amount": 50739.62,
+    "date": "2026-08-20",
+    "narration": "SETTLEMENT RZP100020 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100021",
+    "ref": "RZP100201",
+    "merchant": "Padma Electronics",
+    "amount": 27493.03,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100201 Padma Electronics"
+  },
+  {
+    "id": "BNK-100022",
+    "ref": "RZP100022",
+    "merchant": "Trailhead Logistics",
+    "amount": 14422.15,
+    "date": "2026-08-12",
+    "narration": "SETTLEMENT RZP100022 Trailhead Logistics PARTIAL"
+  },
+  {
+    "id": "BNK-100023",
+    "ref": "RZP100023",
+    "merchant": "Nimbus Foods",
+    "amount": 28651.09,
+    "date": "2026-08-12",
+    "narration": "SETTLEMENT RZP100023 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100024",
+    "ref": "RZP100024",
+    "merchant": "Verve Fitness",
+    "amount": 50495.72,
+    "date": "2026-08-06",
+    "narration": "SETTLEMENT RZP100024 Verve Fitness"
+  },
+  {
+    "id": "BNK-100025",
+    "ref": "RZP100205",
+    "merchant": "Verve Fitness",
+    "amount": 27601.97,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100205 Verve Fitness"
+  },
+  {
+    "id": "BNK-100026",
+    "ref": "RZP100026",
+    "merchant": "Kaveri Textiles",
+    "amount": 72038.72,
+    "date": "2026-08-16",
+    "narration": "SETTLEMENT RZP100026 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100027",
+    "ref": "RZP100027",
+    "merchant": "Sundown Cafe",
+    "amount": 44307.49,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100027 Sundown Cafe"
+  },
+  {
+    "id": "BNK-100028",
+    "ref": "RZP100028",
+    "merchant": "Anchor Books",
+    "amount": 70420.14,
+    "date": "2026-08-16",
+    "narration": "SETTLEMENT RZP100028 Anchor Books"
+  },
+  {
+    "id": "BNK-100029",
+    "ref": "RZP100209",
+    "merchant": "Anchor Books",
+    "amount": 80126.17,
+    "date": "2026-08-17",
+    "narration": "SETTLEMENT RZP100209 Anchor Books"
+  },
+  {
+    "id": "BNK-100030",
+    "ref": "RZP100030",
+    "merchant": "Padma Electronics",
+    "amount": 74932.69,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100030 Padma Electronics"
+  },
+  {
+    "id": "BNK-100031",
+    "ref": "RZP100031",
+    "merchant": "Verve Fitness",
+    "amount": 11098.46,
+    "date": "2026-08-17",
+    "narration": "SETTLEMENT RZP100031 Verve Fitness PARTIAL"
+  },
+  {
+    "id": "BNK-100032",
+    "ref": "RZP100032",
+    "merchant": "Solstice Travel",
+    "amount": 21200.33,
+    "date": "2026-08-21",
+    "narration": "SETTLEMENT RZP100032 Solstice Travel PARTIAL"
+  },
+  {
+    "id": "BNK-100033",
+    "ref": "RZP100033",
+    "merchant": "Solstice Travel",
+    "amount": 42760.57,
+    "date": "2026-08-14",
+    "narration": "SETTLEMENT RZP100033 Solstice Travel"
+  },
+  {
+    "id": "BNK-100034",
+    "ref": "RZP100034",
+    "merchant": "Solstice Travel",
+    "amount": 19338.81,
+    "date": "2026-08-04",
+    "narration": "SETTLEMENT RZP100034 Solstice Travel"
+  },
+  {
+    "id": "BNK-100035",
+    "ref": "RZP100035",
+    "merchant": "Nimbus Foods",
+    "amount": 58506.31,
+    "date": "2026-08-13",
+    "narration": "SETTLEMENT RZP100035 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100036",
+    "ref": "RZP100036",
+    "merchant": "Trailhead Logistics",
+    "amount": 59404.72,
+    "date": "2026-08-16",
+    "narration": "SETTLEMENT RZP100036 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100036-DUP",
+    "ref": "RZP100036",
+    "merchant": "Trailhead Logistics",
+    "amount": 59404.72,
+    "date": "2026-08-16",
+    "narration": "SETTLEMENT RZP100036 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100037",
+    "ref": "RZP100037",
+    "merchant": "Verve Fitness",
+    "amount": 30605.52,
+    "date": "2026-08-18",
+    "narration": "SETTLEMENT RZP100037 Verve Fitness"
+  },
+  {
+    "id": "BNK-100039",
+    "ref": "RZP100039",
+    "merchant": "Trailhead Logistics",
+    "amount": 68961.85,
+    "date": "2026-08-04",
+    "narration": "SETTLEMENT RZP100039 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100040",
+    "ref": "RZP100040",
+    "merchant": "Anchor Books",
+    "amount": 20169.39,
+    "date": "2026-08-10",
+    "narration": "SETTLEMENT RZP100040 Anchor Books"
+  },
+  {
+    "id": "BNK-100041",
+    "ref": "RZP100401",
+    "merchant": "Trailhead Logistics",
+    "amount": 49469.66,
+    "date": "2026-08-09",
+    "narration": "SETTLEMENT RZP100401 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100042",
+    "ref": "RZP100042",
+    "merchant": "Verve Fitness",
+    "amount": 34778.93,
+    "date": "2026-08-13",
+    "narration": "SETTLEMENT RZP100042 Verve Fitness"
+  },
+  {
+    "id": "BNK-100043",
+    "ref": "RZP100043",
+    "merchant": "Trailhead Logistics",
+    "amount": 54293.22,
+    "date": "2026-08-20",
+    "narration": "SETTLEMENT RZP100043 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100044",
+    "ref": "RZP100044",
+    "merchant": "Solstice Travel",
+    "amount": 56252.09,
+    "date": "2026-08-15",
+    "narration": "SETTLEMENT RZP100044 Solstice Travel"
+  },
+  {
+    "id": "BNK-100044-DUP",
+    "ref": "RZP100044",
+    "merchant": "Solstice Travel",
+    "amount": 56252.09,
+    "date": "2026-08-15",
+    "narration": "SETTLEMENT RZP100044 Solstice Travel"
+  },
+  {
+    "id": "BNK-100045",
+    "ref": "RZP100405",
+    "merchant": "Sundown Cafe",
+    "amount": 60969.43,
+    "date": "2026-08-06",
+    "narration": "SETTLEMENT RZP100405 Sundown Cafe"
+  },
+  {
+    "id": "BNK-100046",
+    "ref": "RZP100046",
+    "merchant": "Sundown Cafe",
+    "amount": 24777.51,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100046 Sundown Cafe"
+  },
+  {
+    "id": "BNK-100047",
+    "ref": "RZP100407",
+    "merchant": "Anchor Books",
+    "amount": 56260.67,
+    "date": "2026-08-21",
+    "narration": "SETTLEMENT RZP100407 Anchor Books"
+  },
+  {
+    "id": "BNK-100048",
+    "ref": "RZP100048",
+    "merchant": "Padma Electronics",
+    "amount": 56256.15,
+    "date": "2026-08-01",
+    "narration": "SETTLEMENT RZP100048 Padma Electronics"
+  },
+  {
+    "id": "BNK-100049",
+    "ref": "RZP100049",
+    "merchant": "Solstice Travel",
+    "amount": 31887.75,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100049 Solstice Travel PARTIAL"
+  },
+  {
+    "id": "BNK-100050",
+    "ref": "RZP100500",
+    "merchant": "Orchid Clinic",
+    "amount": 13982.71,
+    "date": "2026-08-21",
+    "narration": "SETTLEMENT RZP100500 Orchid Clinic"
+  },
+  {
+    "id": "BNK-100051",
+    "ref": "RZP100051",
+    "merchant": "Verve Fitness",
+    "amount": 42655.97,
+    "date": "2026-08-10",
+    "narration": "SETTLEMENT RZP100051 Verve Fitness"
+  },
+  {
+    "id": "BNK-100052",
+    "ref": "RZP100502",
+    "merchant": "Padma Electronics",
+    "amount": 65502.63,
+    "date": "2026-08-17",
+    "narration": "SETTLEMENT RZP100502 Padma Electronics"
+  },
+  {
+    "id": "BNK-100053",
+    "ref": "RZP100053",
+    "merchant": "Trailhead Logistics",
+    "amount": 15052.1,
+    "date": "2026-08-22",
+    "narration": "SETTLEMENT RZP100053 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100054",
+    "ref": "RZP100054",
+    "merchant": "Kaveri Textiles",
+    "amount": 6994.64,
+    "date": "2026-08-13",
+    "narration": "SETTLEMENT RZP100054 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100055",
+    "ref": "RZP100055",
+    "merchant": "Nimbus Foods",
+    "amount": 58640.74,
+    "date": "2026-08-15",
+    "narration": "SETTLEMENT RZP100055 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100055-DUP",
+    "ref": "RZP100055",
+    "merchant": "Nimbus Foods",
+    "amount": 58640.74,
+    "date": "2026-08-15",
+    "narration": "SETTLEMENT RZP100055 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100056",
+    "ref": "RZP100056",
+    "merchant": "Orchid Clinic",
+    "amount": 79465.76,
+    "date": "2026-08-05",
+    "narration": "SETTLEMENT RZP100056 Orchid Clinic"
+  },
+  {
+    "id": "BNK-100056-DUP",
+    "ref": "RZP100056",
+    "merchant": "Orchid Clinic",
+    "amount": 79465.76,
+    "date": "2026-08-05",
+    "narration": "SETTLEMENT RZP100056 Orchid Clinic"
+  },
+  {
+    "id": "BNK-100057",
+    "ref": "RZP100057",
+    "merchant": "Kaveri Textiles",
+    "amount": 11263.36,
+    "date": "2026-08-18",
+    "narration": "SETTLEMENT RZP100057 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100058",
+    "ref": "RZP100058",
+    "merchant": "Verve Fitness",
+    "amount": 19953.79,
+    "date": "2026-08-11",
+    "narration": "SETTLEMENT RZP100058 Verve Fitness"
+  },
+  {
+    "id": "BNK-100059",
+    "ref": "RZP100059",
+    "merchant": "Sundown Cafe",
+    "amount": 5669.58,
+    "date": "2026-08-12",
+    "narration": "SETTLEMENT RZP100059 Sundown Cafe"
+  },
+  {
+    "id": "BNK-100060",
+    "ref": "RZP100060",
+    "merchant": "Trailhead Logistics",
+    "amount": 40072.19,
+    "date": "2026-08-19",
+    "narration": "SETTLEMENT RZP100060 Trailhead Logistics PARTIAL"
+  },
+  {
+    "id": "BNK-100061",
+    "ref": "RZP100601",
+    "merchant": "Bluewave Studio",
+    "amount": 39718.7,
+    "date": "2026-08-22",
+    "narration": "SETTLEMENT RZP100601 Bluewave Studio"
+  },
+  {
+    "id": "BNK-100062",
+    "ref": "RZP100062",
+    "merchant": "Nimbus Foods",
+    "amount": 69773.88,
+    "date": "2026-08-17",
+    "narration": "SETTLEMENT RZP100062 Nimbus Foods"
+  },
+  {
+    "id": "BNK-100063",
+    "ref": "RZP100603",
+    "merchant": "Trailhead Logistics",
+    "amount": 54235.49,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100603 Trailhead Logistics"
+  },
+  {
+    "id": "BNK-100064",
+    "ref": "RZP100064",
+    "merchant": "Kaveri Textiles",
+    "amount": 21232.56,
+    "date": "2026-08-12",
+    "narration": "SETTLEMENT RZP100064 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100065",
+    "ref": "RZP100065",
+    "merchant": "Kaveri Textiles",
+    "amount": 19317.2,
+    "date": "2026-08-10",
+    "narration": "SETTLEMENT RZP100065 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100065-DUP",
+    "ref": "RZP100065",
+    "merchant": "Kaveri Textiles",
+    "amount": 19317.2,
+    "date": "2026-08-10",
+    "narration": "SETTLEMENT RZP100065 Kaveri Textiles"
+  },
+  {
+    "id": "BNK-100066",
+    "ref": "RZP100066",
+    "merchant": "Anchor Books",
+    "amount": 46508.9,
+    "date": "2026-08-18",
+    "narration": "SETTLEMENT RZP100066 Anchor Books"
+  },
+  {
+    "id": "BNK-100067",
+    "ref": "RZP100067",
+    "merchant": "Solstice Travel",
+    "amount": 14703.44,
+    "date": "2026-08-18",
+    "narration": "SETTLEMENT RZP100067 Solstice Travel"
+  },
+  {
+    "id": "BNK-100067-DUP",
+    "ref": "RZP100067",
+    "merchant": "Solstice Travel",
+    "amount": 14703.44,
+    "date": "2026-08-18",
+    "narration": "SETTLEMENT RZP100067 Solstice Travel"
+  },
+  {
+    "id": "BNK-100068",
+    "ref": "RZP100608",
+    "merchant": "Solstice Travel",
+    "amount": 64973.78,
+    "date": "2026-08-21",
+    "narration": "SETTLEMENT RZP100608 Solstice Travel"
+  },
+  {
+    "id": "BNK-100069",
+    "ref": "RZP100069",
+    "merchant": "Verve Fitness",
+    "amount": 56561.8,
+    "date": "2026-08-05",
+    "narration": "SETTLEMENT RZP100069 Verve Fitness"
+  },
+  {
+    "id": "BNK-100070",
+    "ref": "RZP100070",
+    "merchant": "Sundown Cafe",
+    "amount": 6858.51,
+    "date": "2026-08-03",
+    "narration": "SETTLEMENT RZP100070 Sundown Cafe"
+  }
+]
