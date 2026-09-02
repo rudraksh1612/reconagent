@@ -1,6 +1,6 @@
 # ReconAgent — Explainable Multi-Source Reconciliation Agent
 
-Built for the **Razorpay AI Builder Internship 2026 — Track 4: AI Finance Controller**.
+
 
 ReconAgent reconciles two transaction sources (a bank/settlement feed and an
 internal ledger), auto-resolves everything it can confidently match, and for
