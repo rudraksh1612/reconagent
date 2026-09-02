@@ -1,0 +1,9 @@
+{
+  "name": "reconagent",
+  "version": "1.0.0",
+  "description": "ReconAgent full-stack app",
+  "scripts": {
+    "build": "cd client && npm install --include=dev && npm run build && cd ../server && npm install",
+    "start": "node server/index.js"
+  }
+}
